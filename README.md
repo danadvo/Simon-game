@@ -9,4 +9,4 @@
 * At each level- the computer will add one color, you should repeat the hole series of colors from the beggining.
 * If you complete the level correctly- level up -> another signal will apear, otherwise- the screen changes to "Game Over".
 
-### Want to play? click [here](https://danadvo.github.io/simonGame/)
+### Want to play? click [here](https://danadvo.github.io/Simon-game/)
